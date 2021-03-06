@@ -1,7 +1,6 @@
 name: app_center_bundle_sdk
 description: A Bundle for App Center SDK
 version: 0.0.1
-author: Vincenzo Sarnataro
 homepage: https://github.com/vincenzosarnataro/app_center_bundle_sdk
 publish_to: https://pub.dev/
 
