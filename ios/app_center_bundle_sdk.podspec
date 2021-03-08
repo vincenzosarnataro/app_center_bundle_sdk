@@ -4,7 +4,7 @@
 #
 Pod::Spec.new do |s|
   s.name             = 'app_center_bundle_sdk'
-  s.version          = '0.0.1'
+  s.version          = '0.0.2'
   s.summary          = 'A Bundle for App Center SDK'
   s.description      = <<-DESC
 A Bundle for App Center SDK
