@@ -1,6 +1,6 @@
 name: app_center_bundle_sdk
 description: A Bundle for App Center SDK, with this you can use AppCenter Analytics, AppCenter Crash and AppCenter Distribute
-version: 0.0.2
+version: 0.0.3
 homepage: https://github.com/vincenzosarnataro/app_center_bundle_sdk
 publish_to: https://pub.dev/
 
